@@ -9,7 +9,7 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background-color:#5e68b1 ;
+    background-color:#5e68b1 ; 
     margin: 0;
     box-shadow: 0 0 11px rgba(0, 0, 0, 0.661);
 }
@@ -17,7 +17,7 @@
     width: 300px;
     height: 300px;
 }
-form {
+form{
     background-color: #f9f9f9;
     width: 100%;
     border: 15px;
@@ -68,8 +68,11 @@ label{
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.hiperlink{
-    text-decoration: none;
+.cadastro-link{
+    text-align: center;
+    margin-bottom: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80%;
 }
 button{
     background: #5e68b1;
